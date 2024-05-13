@@ -16,6 +16,6 @@
 ---
 Para visualizar o dashboard, [clique aqui](https://app.powerbi.com/view?r=eyJrIjoiYjA4ODBlOWEtNTc4Yy00NjEwLWEzYWEtYzY1MzM1YmZlZjM2IiwidCI6IjhkODdkMGZhLWE4NDktNGNkYi1iZTIxLTk1YzY3ZjU3ZGZmYyJ9). 
 
-![Dashboard de Produção](https://vinicius.startz.space/wp-content/uploads/2024/04/DASHBOARD-PRODUCAO-1-1.png)
+![Dashboard de Produção](https://github.com/vhsmdev/dashboard-producao/blob/main/PrintsProjeto/P00.png?raw=true)
 
 Este dashboard oferece uma visão abrangente dos principais indicadores de produção, permitindo monitorar de perto o desempenho da linha de produção.
